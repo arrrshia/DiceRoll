@@ -27,9 +27,9 @@
 
 ### Built With
 
-* [![SwiftUI]]
-* [![Core Data]]
-* [![Combine]]
+* SwiftUI
+* Core Data
+* Combine
 
 
 
