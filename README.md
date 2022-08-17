@@ -12,7 +12,7 @@
 <h3 align="center">Dice Roll</h3>
 
   <p align="center">
-    A simple dice roller app made with SwiftUI by an undergraduate student.
+    A simple dice roller app made with SwiftUI by an undergraduate student
     <br />
   </p>
 </div>
@@ -23,8 +23,6 @@
 
 ![Alt Text](https://media1.giphy.com/media/d6L4Ffdgl04lyMQaXh/giphy.gif?cid=790b761109c7b5ea479366e2ea9d0e91ffc8ac40110a6d03&rid=giphy.gif&ct=g)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -32,8 +30,6 @@
 * [![SwiftUI]]
 * [![Core Data]]
 * [![Combine]]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -51,14 +47,11 @@
 - [ ] Adding dice with more sides (The roadblock is the dice images, the functionality is already implemented!)
 - [ ] Showing modal view with dice representing result of each roll on long press
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
