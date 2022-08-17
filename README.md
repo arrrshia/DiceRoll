@@ -1,17 +1,4 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -42,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<iframe src="https://giphy.com/embed/d6L4Ffdgl04lyMQaXh" width="244" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/d6L4Ffdgl04lyMQaXh">via GIPHY</a></p>
+![Alt Text](https://media1.giphy.com/media/d6L4Ffdgl04lyMQaXh/giphy.gif?cid=790b761109c7b5ea479366e2ea9d0e91ffc8ac40110a6d03&rid=giphy.gif&ct=g)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
